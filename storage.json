@@ -1,0 +1,17 @@
+{
+    "t1": {
+        "name": "t1",
+        "books": [
+            {
+                "bookId": "id01",
+                "bookName": "name01",
+                "isbn": "isbn01"
+            },
+            {
+                "bookId": "id02",
+                "bookName": "name02",
+                "isbn": "isbn02"
+            }
+        ]
+    }
+}

@@ -1,0 +1,60 @@
+<mxfile host="65bd71144e">
+    <diagram id="gc295pnCZp4UDMRrbmP4" name="第1頁">
+        <mxGraphModel dx="687" dy="670" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="16" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;endArrow=open;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2" target="26" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="275.5" y="327" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="23" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16;startArrow=none;startFill=0;endArrow=block;endFill=0;" parent="1" source="2" target="24" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="481.5" y="125" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2" value="Commander" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="384" y="180" width="194" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;endArrow=open;endFill=0;dashed=1;" parent="1" source="26" target="27" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="372" y="357" as="sourcePoint"/>
+                        <mxPoint x="582" y="357" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="9" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=16;endArrow=block;endFill=0;" parent="1" source="8" target="27" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="678.5" y="387" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="28" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8" target="14">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="JSONStorage" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+                    <mxGeometry x="582" y="567" width="193" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16;endArrow=block;endFill=0;" parent="1" source="10" target="26" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="323.75" y="387" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="10" value="CollectOperator" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+                    <mxGeometry x="172" y="567" width="193" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="Data&lt;br&gt;Store" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=16;" parent="1" vertex="1">
+                    <mxGeometry x="408.5" y="657" width="146" height="124" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="«interface»&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;ICommander&lt;/b&gt;" style="html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;fontSize=16;" parent="1" vertex="1">
+                    <mxGeometry x="385" y="61" width="193" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="«interface»&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;IResouceOperator&lt;/b&gt;" style="html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;fontSize=16;" parent="1" vertex="1">
+                    <mxGeometry x="172" y="327" width="193" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="«interface»&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;IStorage&lt;/b&gt;" style="html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;fontSize=16;" parent="1" vertex="1">
+                    <mxGeometry x="582" y="327" width="193" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
